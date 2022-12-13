@@ -1,0 +1,28 @@
+.top-receipt{
+    text-align:center;
+    display: flex;
+    display: grid;
+    margin: 30px;
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+    width: 35px;
+    
+}
+.bottem-receipt{
+    text-align: center;
+    display: flex;
+    display: grid;
+    margin: 30px;
+    margin-top: 2px;
+    
+}
+.receipt-total{
+    text-align: center;
+    display: flex;
+    display: table-column;
+    margin: 30px;
+    margin-top: 5px;
+    margin-left: 0px;
+    
+}
